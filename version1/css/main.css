@@ -1,0 +1,25 @@
+/*******************************
+GENERAL
+*******************************/
+
+body {
+    background: #2ecc71;
+    color: #fff;
+    margin-top: 40px;
+}
+
+header, footer {
+    background: rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    position: absolute;
+    right: 0px;
+    left: 0px;
+}
+
+header {
+    top: 0px;
+}
+
+footer {
+    bottom: 0px;
+}
